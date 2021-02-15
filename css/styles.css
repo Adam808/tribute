@@ -1,0 +1,54 @@
+div#heading {
+    background-color: #0d7486;
+    color: white;
+    padding: 2em;
+    text-align: center;
+}
+
+h1#title {
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div#heading p {
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div#img-div {
+    margin: 2em 0 2em 0;
+    text-align: center;
+}
+
+img#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+section#tribute-info {
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a#tribute-link {
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: .5em;
+    background-color: #0d7486;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    border-radius: 5%;
+    
+}
+a#tribute-link:hover {
+    color: gray;
+}
+
+div.link {
+    text-align: center;
+}
